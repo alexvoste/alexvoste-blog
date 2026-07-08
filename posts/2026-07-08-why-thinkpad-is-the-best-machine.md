@@ -1,3 +1,5 @@
+![Thinkpad Cover](../assets/cover_for_post_thinkpad.jpg) 
+
 What year is it again? 26? I haven't left the terminal long enough to notice — my system clock drifted and I only just caught it. Anyway, hello to all the engineers out there, junior and senior, and of course to my fellow Linux nerds.
 
 In this post I want to break down what hardware is actually worth buying if you're a programmer, a Linux user, a sysadmin, a technical writer (like me, ha), or a manager. I'll throw gamers a bone too, but consider that section a footnote — I'm not much of a gamer myself, though I did once have to sit inside a game engine for work, so I've earned the right to an opinion.
