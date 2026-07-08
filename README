@@ -1,0 +1,16 @@
+=======================
+alexvoste's posts archive ✍️
+======================= 
+
+A curated collection of my tech posts, deep dives, and rants. 
+
+Main Hub: [coderlegion.com](https://coderlegion.com/user/alexvoste)
+Topics: Low-level wizardry, custom compilers, system design, and terminal-centric workflows.
+
+Directory Structure
+ `/posts` — Raw Markdown files of all published articles.
+ `/assets` — Images, diagrams, and GIMP covers.
+
+---
+Feel free to open a PR if you spot a typo or want to discuss the content.
+
